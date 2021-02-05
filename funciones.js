@@ -11,7 +11,7 @@ function nuevoRegistro() {
 
 function preguntaUsuario() {
     // Retornamos la respuesta del promp que nos proporciona el usuarios
-    return prompt('Desea registrar otro alumno [s] [n]');
+    return prompt('Desea registrar un alumno [s] [n]');
 }
 
 function reporte(lista) {
